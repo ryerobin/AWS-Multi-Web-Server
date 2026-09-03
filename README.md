@@ -17,4 +17,4 @@ I manually created a cloud infrastructure network inside the AWS Console. The go
 I plan to continue building projects and while incrementally increase the difficulty with each project, while outlining thought processes and tactics to solve each problem.
 
 ### Architecture Design
-![Blank diagram](images/blank-diagram-1.png)
+[Blank.diagram.1 (1).pdf](https://github.com/user-attachments/files/31803103/Blank.diagram.1.1.pdf)
