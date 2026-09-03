@@ -18,3 +18,10 @@ I plan to continue building projects and while incrementally increase the diffic
 
 ### Architecture Design
 [Blank.diagram.1 (1).pdf](https://github.com/user-attachments/files/31803103/Blank.diagram.1.1.pdf)
+
+## Load Balancer Site
+<img width="1121" height="278" alt="ALB pic" src="https://github.com/user-attachments/assets/7bed03b5-62fa-4e21-bd43-f9e03e72214a" />
+
+## Healthy Targets
+<img width="1638" height="371" alt="Healthy Target Group" src="https://github.com/user-attachments/assets/e1b2bc2a-a026-421d-ae7f-d34e2b3b42d9" />
+
