@@ -1,21 +1,20 @@
-# AWS-Multi-Web-Server
-Multi server to host my book club landing pages
-#Project Overview
-This project is a highly available infrastructure deployment on AWS. It directs incoming web traffic onto two separate availability zones and public servers. 
+# Project : My First Multi-Availability Zone Load Balanced Web Infrastructure
 
-#Architectural Summary
-* **Virtual Private Cloud (VPC) :** Custom network built using 10.0.0.0/16 address
-*  **High Availability Subnets:** Dual subnets places across separate Availability Zones('us-east-1a' and 'us-east-1b').
-*  **Compute Layer:** Two Amazon EC2 instances running start up scripts to deliver data to HTTP servers.
-*  **Traffic Balancing:** Application Load Balancer (ALB) implementing Round-Robin routing to balance network loads across the EC2 instances.
-*  **Security Control:** Security groups with inbound rule restricting traffic to only port 80 for safe public access.
+## Beginner's Learning Journal
+**Current Status:** Studying for AWS Solutions Architect Associate (Day 3)
+**Background:** B.S. in Management Information Systems (MIS)
 
-# Deployment Instructions
-1. Initialize directory
-2. Preview Changes
-3. Provision Architecture
-4. Clean up resources
-  
+## What I built
+I manually created a cloud infrastructure network inside the AWS Console. The goal was to build a system that can handle internet traffic without dropping users.
 
-# Architecture Design  
-(https://github.com/user-attachments/files/31802701/Blank.diagram.1.pdf)
+## Concepts Utilized in the Console
+* **Networking** 10.0.0.0/16 VPC was divided into smaller /24 subnets.
+* **Security:** Created and attached security group to allow public access on port 80 only, keeping access limited.
+*  **Compute & Automation:** Launched 2 EC2 servers.
+*  **High Availability:** Attached an Application Load balancer. Tested the browser by watching the traffic alternate between Server 1 and Server 2.
+
+### Next Steps
+I plan to continue building projects and while incrementally increase the difficulty with each project, while outlining thought processes and tactics to solve each problem.
+
+### Architecture Design
+![Blank diagram](images/blank-diagram-1.png)
