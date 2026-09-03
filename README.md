@@ -24,4 +24,3 @@ I plan to continue building projects and while incrementally increase the diffic
 
 ## Healthy Targets
 <img width="1638" height="371" alt="Healthy Target Group" src="https://github.com/user-attachments/assets/e1b2bc2a-a026-421d-ae7f-d34e2b3b42d9" />
-
