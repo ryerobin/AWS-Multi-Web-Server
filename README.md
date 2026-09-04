@@ -14,7 +14,7 @@ I manually created a cloud infrastructure network inside the AWS Console. The go
 *  **High Availability:** Attached an Application Load balancer. Tested the browser by watching the traffic alternate between Server 1 and Server 2.
 
 ### Next Steps
-I plan to continue building projects and while incrementally increase the difficulty with each project, while outlining thought processes and tactics to solve each problem.
+I plan to continue building projects and while incrementally increasing the difficulty with each project, while outlining thought processes and tactics to solve each problem.
 
 ### Architecture Design
 <img width="735" height="790" alt="image" src="https://github.com/user-attachments/assets/272e24ed-b318-4daf-a02f-5284719a6f5f" />
