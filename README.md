@@ -2,7 +2,7 @@
 
 ## Beginner's Learning Journal
 **Current Status:** Studying for AWS Solutions Architect Associate (Day 3)
-**Background:** B.S. in Management Information Systems (MIS)
+- **Background:** B.S. in Management Information Systems (MIS)
 
 ## What I built
 I manually created a cloud infrastructure network inside the AWS Console. The goal was to build a system that can handle internet traffic without dropping users.
